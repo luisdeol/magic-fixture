@@ -13,7 +13,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\MagicFixture.Core\MagicFixture.Core.csproj" />
+    <ProjectReference Include="..\MagicFixturePackage.Core\MagicFixturePackage.Core.csproj" />
   </ItemGroup>
 
 </Project>

@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicFixture.Tests", "MagicFixture.Tests\MagicFixture.Tests.csproj", "{B300E7BD-4266-4AB9-9854-B516AD311FF4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicFixturePackage.Tests", "MagicFixturePackage.Tests\MagicFixturePackage.Tests.csproj", "{B300E7BD-4266-4AB9-9854-B516AD311FF4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicFixture.Core", "MagicFixture.Core\MagicFixture.Core.csproj", "{F1A1711C-1B3E-489B-BC72-CBB2864C4F8E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagicFixturePackage.Core", "MagicFixturePackage.Core\MagicFixturePackage.Core.csproj", "{F1A1711C-1B3E-489B-BC72-CBB2864C4F8E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
